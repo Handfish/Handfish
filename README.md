@@ -1,4 +1,4 @@
-# Building Distributed Systems and Fullstack Application at Rutgers University
+# Building Distributed Systems and Fullstack Application Professionally @ Rutgers University 
 
 #### Writing 3d Graphics Experiments for Fun
 
