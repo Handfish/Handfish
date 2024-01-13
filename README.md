@@ -1,5 +1,7 @@
-# Building Tooling and Fullstack Application Professionally @ Rutgers University 
+### Building Fullstack Application Professionally and Tools @ Rutgers University 
 
-#### Writing 3d Graphics Experiments for Fun
+####[Check out ajel (Asynchronous Javascript Error Library)](https://github.com/Handfish/ajel)
+####[Check out this cool 3d Anatomy Viewer I made](https://github.com/Handfish/R3F_AnnotationTool)
 
-https://github.com/Handfish/Handfish/assets/7737624/3263f03c-d969-4869-8f37-11e3ad9f0d20
+[Peep my 3d demos](https://jsfiddle.net/user/Kudovs/fiddles/) 
+[View my shirts](https://www.primitive-animals.com/)
