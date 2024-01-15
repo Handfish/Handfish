@@ -7,4 +7,4 @@
 
 #### [Peep my 3d demos](https://jsfiddle.net/user/Kudovs/fiddles/) 
 
-#### [View my shirts](https://www.primitive-animals.com/)
+#### [View my shirts (Website mostly in archive mode - Let me know if I should revive it)](https://www.primitive-animals.com/)
