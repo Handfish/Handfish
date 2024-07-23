@@ -1,4 +1,4 @@
-# [3D Resume Landing Page / Website](https://handfish.github.io/Portfolio/)
+# [Responsive 3D Resume Landing Page / Website](https://handfish.github.io/Portfolio/)
 
 ### Building Fullstack Application and Tools Professionally @ Rutgers University 
 
