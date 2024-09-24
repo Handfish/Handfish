@@ -9,4 +9,4 @@
 
 #### [Peep my 3d demos](https://jsfiddle.net/u/Kudovs/fiddles/) 
 
-#### [View my shirts (Website mostly in archive mode - Let me know if I should revive it)](https://www.primitive-animals.com/)
+#### [View my shirts (Website mostly in archive mode - Let me know if I should revive it - This old thing has cookie / rendering problems in firefox - view in chrome - I'll fix if I feel inspired by the project again)](https://primitiveanimialsclothing.com)
