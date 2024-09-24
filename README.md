@@ -9,4 +9,4 @@
 
 #### [Peep my 3d demos](https://jsfiddle.net/u/Kudovs/fiddles/) 
 
-#### [View my shirts (Website mostly in archive mode - Let me know if I should revive it)](44.210.143.219)
+#### [View my shirts (Website mostly in archive mode - Let me know if I should revive it)](http://44.210.143.219)
