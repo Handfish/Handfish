@@ -1,3 +1,5 @@
+# Presently building software with [Electron](https://github.com/electron/electron) and [EffectTS](https://github.com/Effect-TS/effect)
+
 # [View my Responsive 3D Resume Landing Page / Website](https://handfish.github.io/Portfolio/)
 
 ### Building Fullstack Application and Tools Professionally @ Rutgers University 
