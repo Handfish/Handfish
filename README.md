@@ -1,4 +1,6 @@
-# Presently building software with [Electron](https://github.com/electron/electron) and [EffectTS](https://github.com/Effect-TS/effect)
+# [Presently building software with Electron and EffectTS](https://github.com/Handfish/Geppetto)
+
+Click above to see [Geppetto](https://github.com/Handfish/Geppetto) (my more recent work).
 
 # [View my Responsive 3D Resume Landing Page / Website](https://handfish.github.io/Portfolio/)
 
