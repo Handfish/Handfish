@@ -1,3 +1,8 @@
+
+# [talos-pilot - TUI for real-time node monitoring](https://github.com/Handfish/talos-pilot)
+
+ Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics 
+
 # [Effstate: XState inpired Actor framework for Effect](https://github.com/Handfish/effstate)
 
 Click above to see [effstate](https://github.com/Handfish/effstate) 
