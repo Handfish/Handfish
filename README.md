@@ -1,7 +1,24 @@
+# [AlmanacRAG](https://github.com/Handfish/AlmanacRAG)
 
-# [talos-pilot - TUI for real-time node monitoring](https://github.com/Handfish/talos-pilot)
+ A structured-first, fact-grounded RAG for course catalogs — the model chooses rows, the database speaks the facts, and it remembers what the catalog forgot. 
+ 
+# [talos-pilot](https://github.com/Handfish/talos-pilot)
 
  Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics 
+
+
+# Game Dev
+## Ironveil
+
+[SpacetimeDB](https://spacetimedb.com/) backed CRPG playable in the browser - client written with R3F and Effect-Atom 
+
+https://github.com/user-attachments/assets/84b65f26-7d1d-464e-bd18-c0a4d7ae6c8f
+
+## Bottom Feeders (Unity)
+
+Networked Ragdoll Simulation and adventure combat (music by [phenomenon](https://open.spotify.com/artist/16XWynaVsaLi8GhJBmnjnV))
+
+https://github.com/user-attachments/assets/b4c8db9c-244f-4535-aea8-012fbeda46f1
 
 # [Effstate: XState inpired Actor framework for Effect](https://github.com/Handfish/effstate)
 
