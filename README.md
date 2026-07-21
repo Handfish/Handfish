@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/b4c8db9c-244f-4535-aea8-012fbeda46f1
 Click above to see [effstate](https://github.com/Handfish/effstate) 
 
 
-# [TMUX powered UI in Electron](https://github.com/Handfish/Geppetto)
+# [Parallel AI watchers on real tmux sessions via Electron](https://github.com/Handfish/Geppetto)
 
 Click above to see [Geppetto](https://github.com/Handfish/Geppetto) 
 
