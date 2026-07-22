@@ -10,7 +10,7 @@
 # Game Dev
 ## Ironveil
 
-[SpacetimeDB](https://spacetimedb.com/) backed CRPG playable in the browser - client written with R3F and Effect-Atom 
+[SpacetimeDB](https://spacetimedb.com/) powered CRPG playable in the browser - client written with R3F and Effect-Atom 
 
 https://github.com/user-attachments/assets/84b65f26-7d1d-464e-bd18-c0a4d7ae6c8f
 
