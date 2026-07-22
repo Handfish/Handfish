@@ -4,7 +4,7 @@
 
 # [AlmanacRAG](https://github.com/Handfish/AlmanacRAG)
 
- A structured-first, fact-grounded RAG for course catalogs — the model chooses rows, the database speaks the facts, and it remembers what the catalog forgot. 
+ A structured-first, fact-grounded RAG for course catalogs — the model chooses rows, the database speaks the facts. 
  
 
 # Game Dev
